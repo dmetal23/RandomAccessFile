@@ -1,0 +1,8 @@
+John Noga -Project 4- by Daniel Rojas
+
+The program works as required.
+
+It compiles/runs and the output matches the correct format.
+It creates an external hash table from a RandomAccessFile
+with options to find and insert items while displaying
+how many items are in each page.  
